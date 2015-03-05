@@ -1,0 +1,6 @@
+*
+!.vimrc
+!.gitignore
+!.tmux.conf
+!.vim/
+!.vim/*
