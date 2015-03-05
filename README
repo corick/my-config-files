@@ -1,0 +1,4 @@
+These are just my dotfiles.
+
+cd && git init && git remote add origin https://github.com/corick/my-config-files.git && git pull
+
